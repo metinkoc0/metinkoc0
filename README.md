@@ -1,16 +1,18 @@
-## Hi there 👋
+## Embedded Systems Engineer
 
-<!--
-**metinkoc0/metinkoc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on embedded software with a focus on low-level C programming and STM32 microcontrollers.
 
-Here are some ideas to get you started:
+### Areas of Interest
+- Bare-metal embedded systems
+- Register-level peripheral control
+- Deterministic and reliable firmware design
+- Interrupt-driven architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+- Programming Language: C
+- Microcontrollers: STM32 (F4 series)
+- Development: STM32CubeIDE, GCC
+- Interfaces: GPIO, UART, SPI, I2C, TIM, ADC
+
+### Notes
+This profile showcases selected projects created for learning and demonstration purposes, focusing on clarity, reliability, and documentation.
